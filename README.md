@@ -4,9 +4,8 @@
 
 <br>
 1.Admin SignIn
-![image](https://github.com/SRIDHARAN1819/Online-Shopping-Project/assets/82379566/6e5bf1b9-8b56-49b9-8ee4-c4b580a38b0a)
+![image](https://github.com/SRIDHARAN1819/Online-Shopping-Project/assets/82379566/fac691dc-9451-427f-8d14-2c4ad8ce9986)
 
-<br>
 
 2.Home Page 
 ![image](https://github.com/SRIDHARAN1819/Online-Shopping-Project/assets/82379566/105c89f8-b5b1-41cc-a181-8ff976d6012a)
